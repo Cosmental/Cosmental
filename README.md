@@ -4,7 +4,7 @@
 
 <h3 align="center">I'm a Mexican American freelancer that specializes in making games on platforms such as Roblox!</h3>
 
-- I’m currently working on my public resource [SocialChat](https://github.com/Cosmental/Social-Chat-v1)
+- I’m currently working on my public resource [**SocialChat**](https://github.com/Cosmental/Social-Chat-v1)
 - Feel free to reach me on Discord **@Cos#5856**
 ---
 </p>
