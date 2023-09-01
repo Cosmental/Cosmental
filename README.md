@@ -1,6 +1,6 @@
 <img src="https://cdn.discordapp.com/attachments/1139545979675234334/1147240300457230336/cos.png" alt="brand banner for cosmental"/>
 <p>‎ </p>
-<h1 align="center">I'm a Mexican American Roblox freelancer!</h1>
+<h1 align="center"></h1>
 <p align="center">
   <a href="https://www.guilded.gg/u/Cosmental" target="blank"><img src="https://img.shields.io/badge/Guilded-F5C400?style=for-the-badge&logo=guilded&logoColor=white" alt="Guilded Contact"/></a>
   <a href="https://discordapp.com/users/1004549364737384509" target="blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Contact"/></a>
